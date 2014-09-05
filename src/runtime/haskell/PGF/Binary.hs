@@ -1,4 +1,6 @@
-module PGF.Binary(putSplitAbs) where
+module PGF.Binary
+
+where
 
 import PGF.CId
 import PGF.Data
